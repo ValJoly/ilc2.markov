@@ -29,26 +29,26 @@ Hereafter, for each classes give function to be tested. Remember that all functi
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| main |  |  | 
-| readFileAsString |  |  | 
+| main | I | just the main ¯\_(ツ)_/¯ | 
+| readFileAsString | A | Use of existing fonction | 
 
 ### Class markov.MarkovChain
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| MarkovChain  |  |  |
-| generateMarkov  |  |  |
-| learn  |  |  |
-| setRgen  |  |  |
+| MarkovChain  | I | Constructor |
+| generateMarkov  | T |  |
+| learn  | T |  |
+| setRgen  | I | setter |
 
 ### Class markov.MarkovData
 
 | Function      |     I A D T     |        Comment |
 | :------------ | :-------------: | :------------- |
-| read  |  |  |
-| learnWord  |  |  |
-| renforceWord  |  |  |
-| Etc.  |  |  |
+| read  | A | just a read fonction |
+| learnWord  | A | simple fonction |
+| renforceWord  | T |  |
+| Etc.  | D | Basic setters/getters |
 
 ## Functions to test now
 
